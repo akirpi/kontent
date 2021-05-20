@@ -1,4 +1,4 @@
-<template>
+<template> 
     <div class="container">
         <template  v-for="(article, index) in articlesData">
             <div :key="article.id">
